@@ -68,7 +68,7 @@ def ordenar_personagens_por_vida(personagens):
 
 # Exemplo de uso
 personagens, num_personagens= importar_personagens('personagens.json')
-print(f"{num_personagens} personagens entram em batalha!")
+print(f"{num_personagens} Personagens Entram em Batalha!")
 
 personagens = ordenar_personagens_por_vida(personagens)
 
